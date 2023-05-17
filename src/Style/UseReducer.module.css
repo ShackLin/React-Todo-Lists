@@ -1,0 +1,62 @@
+* {
+      position: relative;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+body {
+      background: linear-gradient(to right, #15ff86, #15ffe9);
+
+}
+
+.bg {
+      top: 50px;
+      margin: 0 auto;
+      background-color: #fffeb2;
+      width: 800px;
+      text-align: center;
+}
+
+.form {
+      margin: 15px 0;
+}
+
+.input {
+      height: 30px;
+      width: 200px;
+      font-family: 25px;
+      text-align: center;
+      border-radius: 5px;
+}
+
+.button {
+      width: 80px;
+      height: 30px;
+      font-size: 20px;
+      background-color: #1c71f6;
+      color: white;
+      margin: 0 15px;
+      border-radius: 10px;
+}
+
+.todoContainer {
+      margin: 1rem 0;
+}
+
+.button2 {
+      width: 80px;
+      height: 25px;
+      font-size: 20px;
+      color: white;
+      background-color: #00cb2e;
+      margin: 0 15px;
+      border-radius: 10px;
+}
+
+.span {
+      font-size: 25px;
+      font-weight: 600;
+      margin: 0 50px;
+
+}
